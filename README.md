@@ -1,8 +1,10 @@
 # Citi Bike
 
-https://mybinder.org/v2/gh/cornhundred/citibike-clustergrammer2/master?urlpath=voila/render/index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](http://bit.ly/citibike-clustergrammer2)
 
 https://www.citibikenyc.com/data-sharing-policy
+
+
 
 
 ### References 
