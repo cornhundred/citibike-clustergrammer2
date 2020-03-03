@@ -2,12 +2,17 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](http://bit.ly/citibike-clustergrammer2)
 
+
+[![citibike-clustergrammer2](img/small_gif.gif)](http://bit.ly/citibike-clustergrammer2)
+
+### Data
+
 https://www.citibikenyc.com/data-sharing-policy
 
 
 
 
-### References 
+### References
 https://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/
 
 ### Ideas
